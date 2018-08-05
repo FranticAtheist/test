@@ -1,0 +1,1 @@
+What happens when you initialize a repository? Why do you need to do it? 	it creates a git repository file that contains meta data about the changes you made to the files in the repository. so you can the changes to the files you create andi follow the changes

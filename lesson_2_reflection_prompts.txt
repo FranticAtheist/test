@@ -4,4 +4,8 @@ How is the staging area different from the working directory and the repository?
 	the working directory contains all the files while the staging area contains only the files you want to add to the current commit. the value is that even if you made changes in multipule files you can divide them into several commits easly
 How can you use the staging area to make sure you have one commit per logical change?
 	you can add to the staging area only files that have one logical change
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	when you want to try an experamental feature on your code sepretly from your current code. it would be helpfull since you could retun to a status where your code works in case you want to upgrade it without having to deal with the problems of your expramental feature.
+
+
 

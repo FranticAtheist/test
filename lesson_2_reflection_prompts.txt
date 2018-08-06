@@ -8,6 +8,7 @@ What are some situations when branches would be helpful in keeping your history 
 	when you want to try an experamental feature on your code sepretly from your current code. it would be helpfull since you could retun to a status where your code works in case you want to upgrade it without having to deal with the problems of your expramental feature.
 How do the diagrams help you visualize the branch structure?
 	it shows you where the brach was created and all its commits
-
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	the result is a combination of both branches. we represent the diagram in that way because you have access to the commits of both branches
 
 
